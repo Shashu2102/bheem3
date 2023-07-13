@@ -1,0 +1,67 @@
+
+body{
+    text-align: center;
+    border: 7px solid black; border-radius: 5px;
+}
+
+body{
+
+    background: url("img5.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+
+    width: 200px;
+    color: skyblue;
+    height: 20px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    margin-left: 560px;
+    background-color: black;
+    border: 2px solid wheat;
+}
+
+img{
+    height:200px;
+    width: 200px;
+    padding: 30px;
+}
+
+
+.fourthimage{
+    text-align: center; 
+    color: white;
+    padding: 20px;
+    }
+    
+    .heading{
+        width: 900px;
+    height: 40px;
+    margin-left: 220px;
+    margin-top: 60px;
+     text-align: center;
+     display:inline;
+    
+    }
+    .firstimage{
+    
+            border: 2px solid black; border-radius: 2px;
+            color:aqua;
+            width: 900px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 50px;
+     text-align: center;
+     display:inline;
+
+        
+    }
+    
+
+    
+
+    
+   
+    
